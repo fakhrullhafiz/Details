@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Details</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="utp_logo">utp_logo</string>
+    <string name="profile_logo">profile_logo</string>
+    <string name="about_us">about us</string>
+    <string name="details">Details</string>
+    <string name="ucare_logo">UCare_Logo</string>
+
+    <string name="aboutUsParagraph1">UCare was created by a group of 10 students as a university assignment project. We wanted to create an app that would make a difference in people\'s lives by providing easy access to care and support services. We worked tirelessly to develop and refine the app, drawing on our diverse skills and backgrounds to create a truly unique and valuable tool.
+    </string>
+    <string name="aboutUsParagraph2">As students ourselves, we understand the challenges that come with juggling coursework, extracurricular activities, and other commitments. That\'s why we designed UCare to be user-friendly, convenient, and tailored to the needs of busy students and professionals. We believe that everyone deserves access to high-quality care services, regardless of their circumstances or background.
+    </string>
+    <string name="aboutUsParagraph3">Since launching UCare, we\'ve been thrilled to see the positive impact it\'s had on the lives of our users. From providing basic household assistance to specialized care and support, our app has helped countless people live more comfortably and confidently. We\'re committed to continuing to improve and expand our services, so that we can reach even more people who need our help.
+    </string>
+    <string name="aboutUsParagraph4">Thank you for choosing UCare - we\'re proud to be a student-created app that\'s making a real difference in the world.
+    </string>
+
+    <string name="privacy_and_policy">Privacy and Policy</string>
+    <string name="privacyPolicyParagraph1">Privacy Policy for UCare At UCare, we take your privacy and security very seriously. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our app.
+    </string>
+    <string name="privacyPolicyParagraph2"><b>1. Information We Collect</b>\nWhen you use UCare, we may collect the following types of personal information: \n\n- Name \n- Contact information \n(such as phone number and email address) \n- Location data \n- Payment information
+
+    </string>
+    <string name="privacyPolicyParagraph3"><b>2. How We Use Your Information</b>\nWe use your personal information for the following purposes:\n\n- To provide care services to you\n- To communicate with you regarding your care services\n- To improve our app and services\n- To comply with legal and regulatory requirements\n\nWe will not share your personal information with third parties, except as necessary to provide care services to you or as required by law.
+    </string>
+    <string name="privacyPolicyParagraph4"><b>3. How We Protect Your Information</b>\nWe take appropriate technical and organizational measures to protect your personal information from unauthorized access, disclosure, or misuse. We use industry-standard encryption and security technologies to protect your data.
+    </string>
+    <string name="privacyPolicyParagraph5"><b>4. Your Rights</b>\nYou have the right to access, correct, or delete your personal information at any time. You also have the right to withdraw your consent for us to collect and use your personal information.
+    </string>
+    <string name="privacyPolicyParagraph6"><b>5. Updates to this policy</b>\nWe may update this Privacy Policy from time to time to reflect changes in our app and services, or changes in applicable laws and regulations. We will notify you of any material changes to this Policy.
+    </string>
+    <string name="privacyPolicyParagraph7"><b>If you have any questions or concerns about our Privacy Policy or how we handle your personal information, please contact us at support@ucare.com.</b>
+    </string>
+    <string name="privacyPolicyParagraph8"><b>Effective Date: March 9, 2023</b>
+
+    </string>
+    <string name="privacy_policy">privacy policy</string>
+</resources>
