@@ -5,9 +5,10 @@
     <string name="name">Name</string>
     <string name="utp_logo">utp_logo</string>
     <string name="profile_logo">profile_logo</string>
-    <string name="about_us">about us</string>
+    <string name="about_us">ABOUT US</string>
     <string name="details">Details</string>
     <string name="ucare_logo">UCare_Logo</string>
+    <string name="button_logOut">Log Out</string>
 
     <string name="aboutUsParagraph1">UCare was created by a group of 10 students as a university assignment project. We wanted to create an app that would make a difference in people\'s lives by providing easy access to care and support services. We worked tirelessly to develop and refine the app, drawing on our diverse skills and backgrounds to create a truly unique and valuable tool.
     </string>

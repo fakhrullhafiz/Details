@@ -8,7 +8,7 @@
         tools:context=".AboutUs" android:orientation="vertical">
 
     <TextView
-            android:text="About Us"
+            android:text="@string/about_us"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" android:id="@+id/aboutUs"
             android:textStyle="bold" android:textSize="34sp" android:textColor="#000000" android:gravity="center"/>
@@ -37,26 +37,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/aboutUsDescription4"
                     android:layout_margin="10dp" android:textSize="16sp" android:textAlignment="center"/>
-            <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" app:srcCompat="@drawable/personlogo"
-                    android:id="@+id/imageView"/>
-            <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" app:srcCompat="@drawable/personlogo"
-                    android:id="@+id/imageView2"/>
-            <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" app:srcCompat="@drawable/personlogo"
-                    android:id="@+id/imageView3"/>
-            <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" app:srcCompat="@drawable/personlogo"
-                    android:id="@+id/imageView4"/>
-            <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" app:srcCompat="@drawable/personlogo"
-                    android:id="@+id/imageView5"/>
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
